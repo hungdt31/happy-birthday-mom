@@ -1,0 +1,24 @@
+{
+  "name": "birthday-website-dinh-thi-minh-hoa",
+  "version": "1.0.0",
+  "description": "Trang web chúc mừng sinh nhật cho cô Đinh Thị Minh Hoa",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server .",
+    "build": "echo 'Static website - no build needed'",
+    "deploy": "echo 'Deploy to your preferred hosting service'"
+  },
+  "keywords": [
+    "birthday",
+    "website",
+    "sinh-nhat",
+    "celebration"
+  ],
+  "author": "Created with love",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  }
+}
